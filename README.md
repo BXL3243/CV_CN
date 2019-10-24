@@ -23,7 +23,7 @@
 #### Sanders School of Business, Rochester Institute of Technology 
 * B.S., Management Information Systems (Joint Program), 2016-2020      GPA: 3.89/4.0 
 
-### EMPLOYMENT EXPERIENCE 
+### 实习经历 
 
 #### Mastercard Worldwide.                   (Jul. 2019-Aug. 2019)
 Summer Intern, Market Delivery
