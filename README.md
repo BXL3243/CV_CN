@@ -14,7 +14,7 @@
 
 ### 教育背景
 
-#### 汇丰商学院, 北京大学 (Forthcoming student)
+#### 汇丰商学院, 北京大学 (已推免录取)
 * M.A., 金融(金融科技), 2020-2023     
 
 #### 经济管理学院, 北京交通大学
@@ -27,40 +27,43 @@
 
 #### Mastercard Worldwide.                   (Jul. 2019-Aug. 2019)
 Summer Intern, Market Delivery
-* Responsible for regularly authorization approved rate, data integrity and fraud index analysis and data insights 
-* Optimized the implementation process of MDES for Merchant (M4M) in China and assisted finishing the first M4M program for JD.COM in China.
-* Explored the problem of the acceptability for cross border Mastercard Contactless in China as personal research project
-* Solved the problem of rejecting CAT 9 transaction of Bank of China, increasing 1 Million Gross Dollar Value per month
+* 负责日常各银行授权核准率、数据完整性和欺诈率分析，并及时给出反馈 
+* 帮助优化MDES for Merchant (M4M)在中国的实施流程并帮助导师完成亚太区第一个M4M项目
+* 探究万事达卡非接触式卡片在中国境内的卡片受理问题，并提出相关建议
+* 发现并解决了中国银行万事达双标卡 CAT 9交易拒绝问题, 带动每月1百万美元的净交易值的增加
+
 
 #### China Asset Management Co., Ltd.                       (Jul. 2018-Aug. 2018)
 Project Intern, Investment Research
-* Collected, cleaned, and analyzed data for "Internet Car" investment research project and studied related knowledge
-* Gave personal insight and investment advice of "Internet Car" by personal presentation and reports
+* 学习互联网汽车相关知识，并收集、清理、分析相关互联网汽车行业数据并撰写行业研究报告
+* 通过个人展示和报告给出个人针对互联网汽车的分析报告与建议
+
 
 ### RESEARCH & PROJECTS
 
-* **Real-time "Himalaya Gold (herbal medicine)" Detection      (Apr. 2019-Aug. 2019)**
-  * Developed a real-time "Himalaya Gold" detection application to release the pressure of children, and give children opportunity to receive education. We used YOLOv3 in PyTorch to train our model with default COCO dataset and costumed real photos captured on Tanggula Pass by ourselves. We also converted our model to CoreML and applied to IOS device to realize real-time object detection using mobile device. The precision of static objects is 71.3%.
+* **实时"冬虫夏草" 物体检测      (Apr. 2019-Aug. 2019)**
+  * 为了改变“冬虫夏草”生长区孩子们的生活压力，给更多孩子接受教育的机会。我们小组开发了一款实时“冬虫夏草”物体检测模型。我们使用Yolo v3来训练我们的模型，并使用COCO默认数据集和在唐古拉山口拍摄的真实照片。训练完成后，我们将模型转换为COREML，并应用于iOS设备，实现利用移动设备对目标的实时检测。静态物体的精度为71.3%。
 
 
-* **Fraud Detection of Internet Finance Based on Machine Learning Technology  (Dec. 2018-June 2019)**
-  * Finding and managing fraud data of transaction, and using isolation forest to identify the risk (anomaly during the transaction process). we create an optimized behavior risk scoring model referring to China's e-commerce companies and a new risk control flow to measure risk level. 
+* **基于机器学习的中国互联网金融存在问题研究  (Dec. 2018-June 2019)**
+  * 我们针对交易流程的不同维度的数据使用Isolation Forest模型来判断异常值。之后，借鉴了我国的电子商务企业，提出了一种改进的分级交易验证评分模型和风险控制流程，以更加全面、准确地衡量风险。
   
-### PUBLICATIONS 
-**(\*represents the corresponding author\*)**
+### 学术论文 
+**(\*代表通讯作者\*)**
 * S. Qi, K. Jin, **B. Li**\* , Y. Qian. The Exploration of Internet Finance by using Neural Network. Journal of Computational and Applied Mathematics, Elsevier, Forthcoming (4rd revised and resubmit).
 
 * **B. Li**\* , H. Li, M. Gong. [Establishment of a Mathematical Model for Enterprise Credit Risk Recognition and Rating Based on Hybrid Learning Algorithms](https://iopscience.iop.org/article/10.1088/1757-899X/563/5/052036), AEMCME 2019, IOP Conf. Ser.: Mater. Sci. Eng. 563 052036.
 
 ### AWARDS & HONORS
 
-* Honorable Mention of **BJTU "President Scholarship"** for being the 17 candidates of 13000+ students for comprehensive performance in college, 2019
-* Three Consecutive **National Scholarship** for being the top 1% candidates for comprehensive performance, Ministry of Education of China, 2017-2019
-* Consecutive First Prize Scholarship for Academic Performance & BJTU Merit student for being the students with top 3% GPA within major, 2018-2019
-* Consecutive First Prize Scholarship for Social Works & Outstanding Student Leader for being the top 1% students for social and students’ works, 2017-2018
-* First Price of National English Competition for College Students, TEFL China, top 1% grade in NECCS 2018
-* First Prize in China Undergraduate Mathematical Contest in Modeling (Provincial Contest), China Society for Industrial and Applied Mathematics, top 10% groups within province, CUMCM 2017
-* Honorable Mention of Interdisciplinary Contest in Modeling, COMAP, top 20% groups in ICM 2017
+* 北京交通大学“知行奖学金”提名奖 (本科生最高荣誉,比例17/14000), 2019
+* 连续三年获得国家奖学金, 2017-2019
+* 连续两年获得北京交通大学一等学习优秀奖学金和校级三好学生, 2018-2019
+* 连续两年获得北京交通大学一等社会工作优秀奖学金、校级优秀学生干部和优秀团干部, 2017-2018
+* 全国大学生英语竞赛一等奖, TEFL China, top 1% grade in NECCS 2018
+* 全国大学生数学建模竞赛省部级一等奖, top 10% groups within province, CUMCM 2017
+* 美国大学生数学建模竞赛二等奖, COMAP, top 20% groups in ICM 2017
+
 
 ### SOCIAL WORKS
 
