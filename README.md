@@ -69,20 +69,20 @@ Project Intern, Investment Research
 
 #### **Tiger House of RIT**                  (Mar. 2019-Now)
   数据支持委员会主席
-  * Data Supported for the socially responsible and program to ensure the comprehensive development of students and campus
-  * Collected, stored and analyzed the demand, enrollment, feedback data of Tiger House and gave decision-making support
+* 保障校园全面发展，为Tiger House校园社会责任项目提供社会支持
+* 收集、储存并分析同学针对不同活动的需求与反馈，为项目决策提供支持
 
 #### **国际交流协会**                (Oct. 2016-May 2018)
   联合创始人、学术总监
-  * Consecutive Director of Academy of BJTU Model United Nations Conference, 2017-2018
-  * Dais Member of “The Belt and Road Forum” conference in The Second Central China Model United Nations Conference, 2017
-  
+* 北京交通大学模拟联合国大会学术总监, 2017-2018
+* 第二届中部六省模拟联合国大会“一带一路”分会场主席, 2017
+
 #### **青年志愿者协会**        (Sep. 2016-May.2019)
   副部长
-  * Managed the members within association and be responsible for the data management (personal information, forms, feedbacks, etc.)
-  * Organized and participated dozens of volunteer activities; the total number of volunteers had exceeded 1,000. 
-    * 2019 APEC Voices of the Future Youth Volunteer Program, Beijing. Apr.2019 
-    * Volunteer Program of FIVB Beach Volleyball World Tour, Weihai, China. Oct.2016
+* 负责对协会成员信息与活动的数据管理 (个人信息、问卷、活动反馈等)
+* 参与组织二十余次志愿活动; 总志愿活动人次超过2000. 
+  * 2019 APEC 青年之声志愿活动, Apr.2019 
+  * FIVB 沙滩排球世界巡回赛志愿活动,  Oct.2016
 
 
 
