@@ -33,13 +33,13 @@ Summer Intern, Market Delivery
 * 发现并解决了中国银行万事达双标卡 CAT 9交易拒绝问题, 带动每月1百万美元的净交易值的增加
 
 
-#### China Asset Management Co., Ltd.                       (Jul. 2018-Aug. 2018)
+#### 华夏基金管理有限公司                       (Jul. 2018-Aug. 2018)
 Project Intern, Investment Research
 * 学习互联网汽车相关知识，并收集、清理、分析相关互联网汽车行业数据并撰写行业研究报告
 * 通过个人展示和报告给出个人针对互联网汽车的分析报告与建议
 
 
-### RESEARCH & PROJECTS
+### 研究 & 项目
 
 * **实时"冬虫夏草" 物体检测      (Apr. 2019-Aug. 2019)**
   * 为了改变“冬虫夏草”生长区孩子们的生活压力，给更多孩子接受教育的机会。我们小组开发了一款实时“冬虫夏草”物体检测模型。我们使用Yolo v3来训练我们的模型，并使用COCO默认数据集和在唐古拉山口拍摄的真实照片。训练完成后，我们将模型转换为COREML，并应用于iOS设备，实现利用移动设备对目标的实时检测。静态物体的精度为71.3%。
@@ -54,7 +54,7 @@ Project Intern, Investment Research
 
 * **B. Li**\* , H. Li, M. Gong. [Establishment of a Mathematical Model for Enterprise Credit Risk Recognition and Rating Based on Hybrid Learning Algorithms](https://iopscience.iop.org/article/10.1088/1757-899X/563/5/052036), AEMCME 2019, IOP Conf. Ser.: Mater. Sci. Eng. 563 052036.
 
-### AWARDS & HONORS
+### 奖励 & 荣誉
 
 * 北京交通大学**“知行奖学金”提名奖** (本科生最高荣誉,比例17/14000), 2019
 * 连续三年获得**国家奖学金**, 2017-2019
@@ -65,7 +65,7 @@ Project Intern, Investment Research
 * 美国大学生数学建模竞赛二等奖, COMAP, top 20% groups in ICM 2017
 
 
-### SOCIAL WORKS
+### 社会工作
 
 #### **Tiger House of RIT**                  (Mar. 2019-Now)
   数据支持委员会主席
