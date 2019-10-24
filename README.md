@@ -68,17 +68,17 @@ Project Intern, Investment Research
 ### SOCIAL WORKS
 
 #### **Tiger House of RIT**                  (Mar. 2019-Now)
-  Committee Chair of Data Support
+  数据支持委员会主席
   * Data Supported for the socially responsible and program to ensure the comprehensive development of students and campus
   * Collected, stored and analyzed the demand, enrollment, feedback data of Tiger House and gave decision-making support
 
-#### **Model United Nations**                (Oct. 2016-May 2018)
-  Co-founder, Director of Academy
+#### **国际交流协会**                (Oct. 2016-May 2018)
+  联合创始人、学术总监
   * Consecutive Director of Academy of BJTU Model United Nations Conference, 2017-2018
   * Dais Member of “The Belt and Road Forum” conference in The Second Central China Model United Nations Conference, 2017
   
-#### **Youth Volunteers Association**        (Sep. 2016-May.2019)
-  Vice President
+#### **青年志愿者协会**        (Sep. 2016-May.2019)
+  副部长
   * Managed the members within association and be responsible for the data management (personal information, forms, feedbacks, etc.)
   * Organized and participated dozens of volunteer activities; the total number of volunteers had exceeded 1,000. 
     * 2019 APEC Voices of the Future Youth Volunteer Program, Beijing. Apr.2019 
