@@ -1,4 +1,4 @@
-### 基础信息 [English Version](https://bxl3243.github.io/Li-Baisong_Personal_CV/)
+### 基础信息 [English Version](https://bxl3243.github.io/CV_EN/)
 
 * **Mail: bxl3243@rit.edu**
 * **[My Github](https://github.com/bxl3243)**
