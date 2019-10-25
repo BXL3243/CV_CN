@@ -51,9 +51,9 @@ Project Intern, Investment Research
   
 ### 学术论文 
 **(\*代表通讯作者\*)**
-* S. Qi, K. Jin, **B. Li**\* , Y. Qian. The Exploration of Internet Finance by using Neural Network. Journal of Computational and Applied Mathematics, Elsevier, Forthcoming (4rd revise and resubmit).
+* S. Qi, K. Jin, **B. Li**\* , Y. Qian. The Exploration of Internet Finance by using Neural Network. Journal of Computational and Applied Mathematics, Elsevier, Forthcoming (4rd revise and resubmit). (SCI JCR Q1)
 
-* **B. Li**\* , H. Li, M. Gong. [Establishment of a Mathematical Model for Enterprise Credit Risk Recognition and Rating Based on Hybrid Learning Algorithms](https://iopscience.iop.org/article/10.1088/1757-899X/563/5/052036), AEMCME 2019, IOP Conf. Ser.: Mater. Sci. Eng. 563 052036.
+* **B. Li**\* , H. Li, M. Gong. [Establishment of a Mathematical Model for Enterprise Credit Risk Recognition and Rating Based on Hybrid Learning Algorithms](https://www.engineeringvillage.com/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=b04467f367d2482ba119f6508a585707&DOCINDEX=8&ignore_docid=cpx_M2152fafd16d63b8e0d2M7cb410178163131&database=8388609&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes), AEMCME 2019, IOP Conf. Ser.: Mater. Sci. Eng. 563 052036.(EI)
 
 ### 奖励 & 荣誉
 
