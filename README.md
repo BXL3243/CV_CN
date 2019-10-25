@@ -2,7 +2,7 @@
 
 ### 基础信息 
 * **李柏松**
-* **Mail: bxl3243@rit.edu**
+* **Mail: [bxl3243@rit.edu](bxl3243@rit.edu)**
 * **[My Github](https://github.com/bxl3243)**
 * **[My Linkedin](http://linkedin.com/in/bxl3243/)**
 
