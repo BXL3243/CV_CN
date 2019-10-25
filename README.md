@@ -1,6 +1,6 @@
 ### 基础信息 [English Version](https://bxl3243.github.io/Li-Baisong_Personal_CV/)
 
-* **Mail: 16711092@bjtu.edu.cn**
+* **Mail: bxl3243@rit.edu**
 * **[My Github](https://github.com/bxl3243)**
 * **[My Linkedin](http://linkedin.com/in/bxl3243/)**
 
