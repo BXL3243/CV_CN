@@ -1,4 +1,5 @@
-### 基础信息 [English Version](https://bxl3243.github.io/CV_EN/)
+### [English Version](https://bxl3243.github.io/CV_EN/)
+### 基础信息 
 
 * **Mail: bxl3243@rit.edu**
 * **[My Github](https://github.com/bxl3243)**
