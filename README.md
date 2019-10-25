@@ -1,7 +1,7 @@
-**Language: [English Version](https://bxl3243.github.io/CV_EN/)**
+### Language: [English Version](https://bxl3243.github.io/CV_EN/)
 
 ### 基础信息 
-
+* **李柏松**
 * **Mail: bxl3243@rit.edu**
 * **[My Github](https://github.com/bxl3243)**
 * **[My Linkedin](http://linkedin.com/in/bxl3243/)**
