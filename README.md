@@ -16,18 +16,18 @@
 
 ### 教育背景
 
-#### 汇丰商学院, 北京大学 (已推荐免试录取)
+#### **汇丰商学院, 北京大学 (已推荐免试录取)**
 * M.A., 金融硕士 (金融科技方向), 2020-2023     
 
-#### 经济管理学院, 北京交通大学
+#### **经济管理学院, 北京交通大学**
 * B.S., 信息管理与信息系统, 2016-2020         GPA: 3.84/4.0 **Rank:1/107**
 
-#### Sanders School of Business, Rochester Institute of Technology 
+#### **Sanders School of Business, Rochester Institute of Technology** 
 * B.S., Management Information Systems (Joint Program), 2016-2020      GPA: 3.89/4.0 
 
 ### 实习经历 
 
-#### Mastercard Worldwide.                   (Jul. 2019-Aug. 2019)
+#### **Mastercard Worldwide.**                   (Jul. 2019-Aug. 2019)
 Summer Intern, Market Delivery
 * 负责日常各银行授权核准率、数据完整性和欺诈率分析，并及时给出反馈 
 * 帮助优化MDES for Merchant (M4M)在中国的实施流程并帮助导师完成亚太区第一个M4M项目
@@ -35,7 +35,7 @@ Summer Intern, Market Delivery
 * 发现并解决了中国银行万事达双标卡 CAT 9交易拒绝问题, 带动每月1百万美元的净交易值的增加
 
 
-#### 华夏基金管理有限公司                       (Jul. 2018-Aug. 2018)
+#### **华夏基金管理有限公司**                       (Jul. 2018-Aug. 2018)
 Project Intern, Investment Research
 * 学习互联网汽车相关知识，并收集、清理、分析相关互联网汽车行业数据并撰写行业研究报告
 * 通过个人展示和报告给出个人针对互联网汽车的分析报告与建议
