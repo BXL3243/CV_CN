@@ -1,20 +1,20 @@
 ### Language: [English Version](https://bxl3243.github.io/CV_EN/)
 
-### 基础信息 
+## 基础信息 
 * **李柏松**
 * **Mail: [bxl3243@rit.edu](bxl3243@rit.edu)**
 * **[My Github](https://github.com/bxl3243)**
 * **[My Linkedin](http://linkedin.com/in/bxl3243/)**
 
 
-### 动机 & 研究兴趣
+## 动机 & 研究兴趣
 
 我是一个热情、适应性强、具有快速学习能力和国际视野的学生，对数据有着广泛而敏锐的兴趣，喜欢利用数据挖掘和区块链方法与思想研究社会和商业问题。
 
 * **数据资源管理 : 金融大数据、数据建模、区块链**
 *	**数据挖掘 : 机器学习、 风险评估、 异常检测 (反诈骗检测)**
 
-### 教育背景
+## 教育背景
 
 #### **汇丰商学院, 北京大学 (已推荐免试录取)**
 * M.A., 金融硕士 (金融科技方向), 2020-2023     
@@ -25,7 +25,7 @@
 #### **Sanders School of Business, Rochester Institute of Technology** 
 * B.S., Management Information Systems (Joint Program), 2016-2020      GPA: 3.89/4.0 
 
-### 实习经历 
+## 实习经历 
 
 #### **Mastercard Worldwide.**                   (Jul. 2019-Aug. 2019)
 Summer Intern, Market Delivery
@@ -41,7 +41,7 @@ Project Intern, Investment Research
 * 通过个人展示和报告给出个人针对互联网汽车的分析报告与建议
 
 
-### 研究 & 项目
+## 研究 & 项目
 
 * **实时"冬虫夏草" 物体检测      (Apr. 2019-Aug. 2019)**
    * 为了改变“冬虫夏草”生长区孩子们的生活压力，给更多孩子接受教育的机会。我们小组开发了一款实时“冬虫夏草”物体检测模型。我们使用Yolo v3来训练我们的模型，并使用COCO默认数据集和在唐古拉山口拍摄的真实照片。训练完成后，我们将模型转换为COREML，并应用于iOS设备，实现利用移动设备对目标的实时检测。静态物体的精度为71.3%。
@@ -49,13 +49,13 @@ Project Intern, Investment Research
 * **基于机器学习的中国互联网金融存在问题研究  (Dec. 2018-June 2019)**
    * 我们针对交易流程的不同维度的数据使用Isolation Forest模型来判断异常值。之后，借鉴了我国的电子商务企业，提出了一种改进的分级交易验证评分模型和风险控制流程，以更加全面、准确地衡量风险。
   
-### 学术论文 
+## 学术论文 
 **(\*代表通讯作者\*)**
 * S. Qi, K. Jin, **B. Li**\* , Y. Qian. The Exploration of Internet Finance by using Neural Network. Journal of Computational and Applied Mathematics, Elsevier, Forthcoming (4rd revise and resubmit). (SCI JCR Q1)
 
 * **B. Li**\* , H. Li, M. Gong. [Establishment of a Mathematical Model for Enterprise Credit Risk Recognition and Rating Based on Hybrid Learning Algorithms](https://www.engineeringvillage.com/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=b04467f367d2482ba119f6508a585707&DOCINDEX=8&ignore_docid=cpx_M2152fafd16d63b8e0d2M7cb410178163131&database=8388609&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes), AEMCME 2019, IOP Conf. Ser.: Mater. Sci. Eng. 563 052036.(EI)
 
-### 奖励 & 荣誉
+## 奖励 & 荣誉
 
 * 北京交通大学**知行奖学金提名奖** (本科生最高荣誉,比例17/14000), 2018
 * 连续三年获得**国家奖学金**, 2017-2019
@@ -66,7 +66,7 @@ Project Intern, Investment Research
 * 美国大学生数学建模竞赛二等奖, COMAP, top 20% groups in ICM 2017
 
 
-### 社会工作
+## 社会工作
 
 #### **Tiger House of RIT**                  (Mar. 2019-Now)
   数据支持委员会主席
