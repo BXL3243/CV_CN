@@ -23,7 +23,7 @@
 * B.S., 信息管理与信息系统, 2016-2020         GPA: 3.84/4.0 **Rank:1/107**
 
 #### **Sanders School of Business, Rochester Institute of Technology** 
-* B.S., Management Information Systems (Joint Program), 2016-2020      GPA: 3.89/4.0 
+* B.S., Management Information Systems (Joint Program), 2016-2020      GPA: 3.90/4.0 
 
 ## 实习经历 
 
@@ -42,6 +42,8 @@ Project Intern, Investment Research
 
 
 ## 研究 & 项目
+* **智慧冬奥（大数据医疗方向）      (Oct. 2019-Now)**
+   
 
 * **实时"冬虫夏草" 物体检测      (Apr. 2019-Aug. 2019)**
    * 为了改变“冬虫夏草”生长区孩子们的生活压力，给更多孩子接受教育的机会。我们小组开发了一款实时“冬虫夏草”物体检测模型。我们使用Yolo v3来训练我们的模型，并使用COCO默认数据集和在唐古拉山口拍摄的真实照片。训练完成后，我们将模型转换为COREML，并应用于iOS设备，实现利用移动设备对目标的实时检测。静态物体的精度为71.3%。
@@ -51,7 +53,7 @@ Project Intern, Investment Research
   
 ## 学术论文 
 **(\*代表通讯作者\*)**
-* S. Qi, K. Jin, **B. Li**\* , Y. Qian. The Exploration of Internet Finance by using Neural Network. Journal of Computational and Applied Mathematics, Elsevier, Forthcoming (4rd revise and resubmit). (SCI JCR Q1)
+* S. Qi, K. Jin, **B. Li**\* , Y. Qian. The Exploration of Internet Finance by using Neural Network. Journal of Computational and Applied Mathematics, Elsevier. (SCI JCR Q1)
 
 * **B. Li**\* , H. Li, M. Gong. [Establishment of a Mathematical Model for Enterprise Credit Risk Recognition and Rating Based on Hybrid Learning Algorithms](https://www.engineeringvillage.com/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=b04467f367d2482ba119f6508a585707&DOCINDEX=8&ignore_docid=cpx_M2152fafd16d63b8e0d2M7cb410178163131&database=8388609&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes), AEMCME 2019, IOP Conf. Ser.: Mater. Sci. Eng. 563 052036.(EI)
 
