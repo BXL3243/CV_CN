@@ -2,7 +2,7 @@
 
 ## 基础信息 
 * **李柏松**
-* **Mail: [bxl3243@rit.edu](bxl3243@rit.edu)**
+* **Mail: [baisongli@bjtu.edu.cn](baisongli@bjtu.edu.cn)**
 * **[My Github](https://github.com/bxl3243)**
 * **[My Linkedin](http://linkedin.com/in/bxl3243/)**
 
@@ -58,13 +58,16 @@ Project Intern, Investment Research
   
 ## 学术论文 
 **(\*代表通讯作者\*)**
-* S. Qi, K. Jin, **B. Li**\* , Y. Qian. [The Exploration of Internet Finance by using Neural Network. Journal of Computational and Applied Mathematics, Elsevier.] (https://doi.org/10.1016/j.cam.2019.112630) (SCI JCR Q1) 
 
-* **B. Li**\* , H. Li, M. Gong. [Establishment of a Mathematical Model for Enterprise Credit Risk Recognition and Rating Based on Hybrid Learning Algorithms](), AEMCME 2019, IOP Conf. Ser.: Mater. Sci. Eng. 563 052036.(EI)
+* **B. Li**\* , J. Li. Probabilistic Prognostic Estimates of Survival of patients with metastasis in ICU, Forthcoming.
+
+* S. Qi, K. Jin, **B. Li**\* , Y. Qian. [The Exploration of Internet Finance by using Neural Network. Journal of Computational and Applied Mathematics](https://doi.org/10.1016/j.cam.2019.112630), Elsevier. (SCI JCR Q1) 
+
+* **B. Li**\* , H. Li, M. Gong. [Establishment of a Mathematical Model for Enterprise Credit Risk Recognition and Rating Based on Hybrid Learning Algorithms](https://iopscience.iop.org/article/10.1088/1757-899X/563/5/052036), AEMCME 2019, IOP Conf. Ser.: Mater. Sci. Eng. 563 052036.(EI)
 
 ## 奖励 & 荣誉
 
-* 北京交通大学**知行奖学金提名奖** (本科生最高荣誉,比例15/14000), 2019
+* 北京交通大学**知行奖学金提名奖** (本科生最高荣誉最终候选人,比例15/14000), 2019
 * 连续三年获得**国家奖学金**, 2017-2019
 * 连续两年获得北京交通大学一等学习优秀奖学金和校级三好学生, 2018-2019
 * 连续两年获得北京交通大学一等社会工作优秀奖学金、校级优秀学生干部和优秀团干部, 2017-2018
