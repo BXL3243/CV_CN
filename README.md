@@ -20,12 +20,17 @@
 * M.A., 金融硕士 (金融科技方向), 2020-2023     
 
 #### **经济管理学院, 北京交通大学**
-* B.S., 信息管理与信息系统, 2016-2020         GPA: 3.84/4.0 **Rank:1/107**
+* B.S., 信息管理与信息系统, 2016-2020         GPA: 3.85/4.0 **Rank:1/107**
 
 #### **Sanders School of Business, Rochester Institute of Technology** 
 * B.S., Management Information Systems (Joint Program), 2016-2020      GPA: 3.90/4.0 
 
 ## 实习经历 
+
+#### **峰谷资本**                   (Dec. 2019-Now)
+Analyst, Capital Venture
+* 全程参与项目投资，协助合伙人和投资经理开展投资相关工作，包括项目筛选、公司调研、行业研究、财务模型、尽职调查等；
+* 部分项目的投后管理工作
 
 #### **Mastercard Worldwide.**                   (Jul. 2019-Aug. 2019)
 Summer Intern, Market Delivery
@@ -42,7 +47,7 @@ Project Intern, Investment Research
 
 
 ## 研究 & 项目
-* **智慧冬奥（大数据医疗方向）      (Oct. 2019-Now)**
+* **ICU转移瘤患者生命预测分析（大数据医疗方向）      (Oct. 2019-Now)**
    
 
 * **实时"冬虫夏草" 物体检测      (Apr. 2019-Aug. 2019)**
@@ -53,13 +58,13 @@ Project Intern, Investment Research
   
 ## 学术论文 
 **(\*代表通讯作者\*)**
-* S. Qi, K. Jin, **B. Li**\* , Y. Qian. The Exploration of Internet Finance by using Neural Network. Journal of Computational and Applied Mathematics, Elsevier. (SCI JCR Q1)
+* S. Qi, K. Jin, **B. Li**\* , Y. Qian. [The Exploration of Internet Finance by using Neural Network. Journal of Computational and Applied Mathematics, Elsevier.] (https://doi.org/10.1016/j.cam.2019.112630) (SCI JCR Q1) 
 
-* **B. Li**\* , H. Li, M. Gong. [Establishment of a Mathematical Model for Enterprise Credit Risk Recognition and Rating Based on Hybrid Learning Algorithms](https://www.engineeringvillage.com/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=b04467f367d2482ba119f6508a585707&DOCINDEX=8&ignore_docid=cpx_M2152fafd16d63b8e0d2M7cb410178163131&database=8388609&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes), AEMCME 2019, IOP Conf. Ser.: Mater. Sci. Eng. 563 052036.(EI)
+* **B. Li**\* , H. Li, M. Gong. [Establishment of a Mathematical Model for Enterprise Credit Risk Recognition and Rating Based on Hybrid Learning Algorithms](), AEMCME 2019, IOP Conf. Ser.: Mater. Sci. Eng. 563 052036.(EI)
 
 ## 奖励 & 荣誉
 
-* 北京交通大学**知行奖学金提名奖** (本科生最高荣誉,比例17/14000), 2018
+* 北京交通大学**知行奖学金提名奖** (本科生最高荣誉,比例15/14000), 2019
 * 连续三年获得**国家奖学金**, 2017-2019
 * 连续两年获得北京交通大学一等学习优秀奖学金和校级三好学生, 2018-2019
 * 连续两年获得北京交通大学一等社会工作优秀奖学金、校级优秀学生干部和优秀团干部, 2017-2018
