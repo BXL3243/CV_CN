@@ -22,22 +22,6 @@
 #### **Sanders School of Business, Rochester Institute of Technology** 
 * B.S., Management Information Systems (Joint Program), 2016-2020      GPA: 3.90/4.0 
 
-## 实习经历 
-
-#### **峰谷资本**                   (Dec. 2019-Now)
-Analyst, Capital Venture
-* 全程参与项目投资，协助合伙人和投资经理开展投资相关工作
-* 项目筛选、公司调研、行业研究、财务模型、尽职调查
-* 部分项目的投后管理工作
-
-#### **Mastercard Worldwide.**                   (Jul. 2019-Aug. 2019)
-Summer Intern, Market Delivery
-* 负责日常各银行授权核准率、数据完整性和欺诈率分析，并及时给出反馈 
-* 帮助优化MDES for Merchant (M4M)在中国的实施流程并帮助导师完成亚太区第一个M4M项目
-* 探究万事达卡非接触式卡片在中国境内的卡片受理问题，并提出相关建议
-* 发现并解决了中国银行万事达双标卡 CAT 9交易拒绝问题, 带动每月1百万美元的净交易值的增加
-
-
 
 ## 研究 & 项目
 * **呼吸衰竭患者动态预测模型构建研究 - 智慧冬奥智慧医疗课题组     （11/2019 – 08/2020）**                                                                                                                 
@@ -59,6 +43,20 @@ Summer Intern, Market Delivery
 * S. Qi, K. Jin, **B. Li**\* , Y. Qian. [The Exploration of Internet Finance by using Neural Network. Journal of Computational and Applied Mathematics](https://doi.org/10.1016/j.cam.2019.112630), Elsevier. (SCI JCR Q1) 
 
 * **B. Li**\* , H. Li, M. Gong. [Establishment of a Mathematical Model for Enterprise Credit Risk Recognition and Rating Based on Hybrid Learning Algorithms](https://iopscience.iop.org/article/10.1088/1757-899X/563/5/052036), AEMCME 2019, IOP Conf. Ser.: Mater. Sci. Eng. 563 052036.(EI)
+
+## 实习经历 
+
+#### **峰谷资本**                   (Dec. 2019-Now)
+Analyst, Capital Venture
+*	项目投资项目相关工作：包括创始人访谈记录、财务尽职调查整理、基础财务模型搭建、行业及市场研究、投后管理等；
+*	投资建议报告撰写与投后管理：完成追觅科技、汉图科技、蝉鸣科技投资建议报告中行业研究部分并参与上述公司的投后管理工作；
+*	行业研究：合作完成小家电（吸尘器）、泛在电力物联网、小米产业链公司的行业研究报告中的部分内容，并参与上述赛道讨论。
+
+#### **Mastercard Worldwide.**                   (Jul. 2019-Aug. 2019)
+Summer Intern, Market Delivery
+*	半自动分析工具开发：合作开发了基于csv导出文件的交易授权核准率半自动分析工具，根据条件自动利用SQL在集合数据库中提取各银行交易数据并完成不同银行的交易授权核准率分析并及时给出反馈，改善传统的纯手动数据分析方法，提高数据分析效率50%；
+*	交易异常分析：负责银行数据完整性和交易欺诈分析，解决中国银行双标卡 CAT 9交易拒绝问题，提升其净交易额：一百万美元/月。
+
 
 ## 奖励 & 荣誉
 
