@@ -43,19 +43,21 @@ Summer Intern, Market Delivery
 
 
 ## 研究 & 项目
-* **ICU转移瘤患者生命预测分析（大数据医疗方向）      (Oct. 2019-Now)**
-   
-
+* **呼吸衰竭患者动态预测模型构建研究 - 智慧冬奥智慧医疗课题组     （11/2019 – 08/2020）**                                                                                                                 
+   * 优化数据预处理过程，统一数据平台（MIMIC-III 和eICU），与解放军总医院及课题组团队进行沟通、合作，提升数据提取效率；
+   * 利用Python完成患者关键指标提取及权重分析，构建基于MLP、GRU、XGBoost的呼吸衰竭动态预测模型，综合选出性能最优模型以提前1、2小时预测患者是否会发生呼吸衰竭情况并指导有创机械通气，帮助医护人员及时完成处置。
 * **实时"冬虫夏草" 物体检测      (Apr. 2019-Aug. 2019)**
    * 为了改变“冬虫夏草”生长区孩子们的生活压力，给更多孩子接受教育的机会。我们小组开发了一款实时“冬虫夏草”物体检测模型。我们使用Yolo v3来训练我们的模型，并使用COCO默认数据集和在唐古拉山口拍摄的真实照片。训练完成后，我们将模型转换为COREML，并应用于iOS设备，实现利用移动设备对目标的实时检测。静态物体的精度为71.3%。
 
 * **基于机器学习的中国互联网金融存在问题研究  (Dec. 2018-June 2019)**
-   * 我们针对交易流程的不同维度的数据使用Isolation Forest模型来判断异常值。之后，借鉴了我国的电子商务企业，提出了一种改进的分级交易验证评分模型和风险控制流程，以更加全面、准确地衡量风险。
+   * 处理分析700万+条互联网金融交易数据，针对多维数据使用Isolation Forest模型进行交易异常值检测并尝试解释其异常原因；
+   * 结合前人研究，提出了一种改进的分级交易验证评分模型和风险控制流程，以更加全面、准确地衡量互联网金融交易风险。
+
   
 ## 学术论文 
 **(\*代表通讯作者\*)**
 
-* **B. Li**\* , J. Li. Probabilistic Prognostic Estimates of Survival of patients with metastasis in ICU, Forthcoming.
+* **B. Li**\* ,Zhao, Y. Wu, K., Li, J. Research on Prediction Model for Respiratory Failure Patients with Machine Learning, Journal of Clinical Medicine (under 2rd review).
 
 * S. Qi, K. Jin, **B. Li**\* , Y. Qian. [The Exploration of Internet Finance by using Neural Network. Journal of Computational and Applied Mathematics](https://doi.org/10.1016/j.cam.2019.112630), Elsevier. (SCI JCR Q1) 
 
