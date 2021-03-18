@@ -1,8 +1,8 @@
-### Language: [English Version](https://bxl3243.github.io/CV_EN/)
+### Language: [English Version（暂无法打开）](https://bxl3243.github.io/CV_EN/)
 
 ## 基础信息 
 * **李柏松**
-* **Mail: [baisongli@bjtu.edu.cn](baisongli@bjtu.edu.cn)**
+* **Mail: [Richard_li@stu.pku.edu.cn](baisongli@bjtu.edu.cn)**
 * **[My Github](https://github.com/bxl3243)**
 * **[My Linkedin](http://linkedin.com/in/bxl3243/)**
 
