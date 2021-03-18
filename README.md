@@ -4,7 +4,6 @@
 * **李柏松**
 * **Mail: [Richard_li@stu.pku.edu.cn](baisongli@bjtu.edu.cn)**
 * **[My Github](https://github.com/bxl3243)**
-* **[My Linkedin](http://linkedin.com/in/bxl3243/)**
 
 
 ## 个人特点
