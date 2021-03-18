@@ -8,16 +8,16 @@
 
 ## 个人特点
 
-* ** 爱好自然与运动，擅长篮球、排球等运动；性格友善，待人真诚，愿意与他人成为朋友并乐于分享；有海外交流经历，英语写作较好；**
-*	** 可熟练使用MS Office、Wind、Bloomberg；编程工具：SQL、Python；数据库工具：MySQL、PostgreSQL。**
+* **爱好自然与运动，擅长篮球、排球等运动；性格友善，待人真诚，愿意与他人成为朋友并乐于分享；有海外交流经历，英语写作较好；**
+*	**可熟练使用MS Office、Wind、Bloomberg；编程工具：SQL、Python；数据库工具：MySQL、PostgreSQL。**
 
 ## 教育背景
 
-#### **汇丰商学院, 北京大学
+#### **汇丰商学院, 北京大学**
 * M.A., 金融硕士 (金融科技方向), 2020-2023     GPA:3.83/4.0 
 
 #### **经济管理学院, 北京交通大学**
-* B.S., 信息管理与信息系统, 2016-2020         GPA: 3.85/4.0 **Rank:1/107**
+* B.S., 信息管理与信息系统, 2016-2020         GPA: 3.85/4.0 Rank:1/107
 
 #### **Sanders School of Business, Rochester Institute of Technology** 
 * B.S., Management Information Systems (Joint Program), 2016-2020      GPA: 3.90/4.0 
